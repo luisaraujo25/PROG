@@ -1,0 +1,7 @@
+Player      - Time
+
+alex turner    3
+matt helders   4
+jamie cook    5
+nick omalley     30
+
